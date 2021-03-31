@@ -51,15 +51,17 @@ Front-end сервис по созданию новых тикетов
 {   
     "user": {
         "name": "Василий Васильев",
-        "email": "vasya@gmail.com"
+        "email": "vasya@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/ogw/ADGmqu9mwjd_DnKM_J5VCm0fPeUuIA1p-MU6rR7Fi0wV=s192-c-mo"
     },
     "body_subject": "text text",
     "subject": "Оплата",
     "status": 0,
-    "priority":2,
+    "priority": 2,
     "ticket_number": 1,
 }
 ```
+
 ## Входные и выходные данные priority
 
 * 0 - Низкий
